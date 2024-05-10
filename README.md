@@ -42,7 +42,7 @@ The "Sign Out" button on the home page will redirect the user back to the main p
 * Programming Language Kotlin
 
 ## ⬇️ Download Mobile Application 
-Hollywoord House Mobile Application](https://play.google.com/store/apps/details?id=com.rnk.opsc6311_task3&pcampaignid=web_share)
+[Hollywoord House Mobile Application](https://play.google.com/store/apps/details?id=com.rnk.opsc6311_task3&pcampaignid=web_share)
 
 ## 📧 Contact Us
 Feel free to contact any of the following developers for improvements:
