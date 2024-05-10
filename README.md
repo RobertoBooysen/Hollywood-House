@@ -12,8 +12,8 @@ Hollywood House is the ultimate tool for movie collectors, offering an intuitive
 
 ## 📱 User Interface
 <p align="center"><img src="https://github.com/RobertoBooysen/Hollywood-House/assets/101563323/8981dcd4-4928-43c9-9309-833c162f07c8" alt="Image"></p>
-<p align="center"><img src="https://github.com/VCNMB/vcnmb-opsc-2023-poe-rnk/assets/101563674/e639349c-47d9-4b90-8d26-0b92cb1c229c" alt="Image"></p>
-<p align="center"><img src="https://github.com/VCNMB/vcnmb-opsc-2023-poe-rnk/assets/101563674/2229cd16-2e99-4e72-9a72-ce146804a32c" alt="Image"></p>
+<p align="center"><img src="https://github.com/RobertoBooysen/Hollywood-House/assets/101563323/64c58772-83aa-49b8-b4bc-24dd9ba00636" alt="Image"></p>
+<p align="center"><img src="https://github.com/RobertoBooysen/Hollywood-House/assets/101563323/543194b7-6481-479a-a0b4-d825c482f358" alt="Image"></p>
 
 ## 📖 How to run the Mobile Application
 When you open the application, you will be greeted by a splash screen featuring the Hollywood House logo. From there, you'll be directed to the main page, where you have the option to either register if you don't have an account already or log in with your existing account.
