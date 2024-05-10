@@ -15,25 +15,29 @@ Hollywood House is the ultimate tool for movie collectors, offering an intuitive
 <p align="center"><img src="https://github.com/RobertoBooysen/Hollywood-House/assets/101563323/64c58772-83aa-49b8-b4bc-24dd9ba00636" alt="Image"></p>
 <p align="center"><img src="https://github.com/RobertoBooysen/Hollywood-House/assets/101563323/543194b7-6481-479a-a0b4-d825c482f358" alt="Image"></p>
 
-## 📖 How to run the Mobile Application
+## 📱 How to Run the Mobile Application
 When you open the application, you will be greeted by a splash screen featuring the Hollywood House logo. From there, you'll be directed to the main page, where you have the option to either register if you don't have an account already or log in with your existing account.
 
 If you choose to register, you will be prompted to enter a username and password. Afterward, you can select the "Register" button, which will take you to the login page for the Hollywood House mobile application. To return to the main page, simply select the "Back" button.
 
 If you opt to log in with your account, you'll need to enter your username and password. After entering your details, click the "Login" button to access the home page. To return to the main page, use the "Back" button.
 
+#### 🏠 Navigating the Home Page
 On the home page, users are greeted with the application's logo and multiple navigation buttons. Each button is labeled with a title and an icon, directing users to various sections such as Categories, Add Category, Add Movie, Goals, View Progress, and Sign Out, based on their selection.
 
+#### 🎥 Managing Categories and Movies
 On the "Categories" button on the home page, users can view different movie categories displayed under the categories heading, with an "Add Category" button available for adding new categories and a "Delete Category" option to remove categories. There is also a "Back to Home" button redirecting them back to the home page.
 
 The "Add Category" button on the home page allows users to add a new category, with a "Back to Home" button redirecting them back to the home page.
 
 The "Add Movie" button on the home page allows users to add a movie with the name, image, description, category, and date (the date the user is adding it) of the movie. These movies can be viewed on the categories page when you click on a specific category and want to view the movies of that category. There is also a "Back to Home" button redirecting them back to the home page.
 
+#### 🎯 Setting and Tracking Goals
 The "Goals" button on the home page allows a user to set a goal for the number of movies added to a specific category. There is also a "Back to Home" button redirecting them back to the home page.
 
 The "Progress bar" button on the home page allows users to see the progress they have made on the goals they set, with a delete button to remove a goal that has been set. There is also a "Back to Goals" button redirecting them back to the goals page and a "Home" button redirecting them back to the home page.
 
+#### 🚪 Logging Out
 The "Sign Out" button on the home page will redirect the user back to the main page.
 
 
