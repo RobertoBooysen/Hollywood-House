@@ -11,7 +11,7 @@
 Hollywood House is the ultimate tool for movie collectors, offering an intuitive platform to catalog and manage film libraries. This app allows users to easily add and categorize movies, set viewing goals, and track progress with visual indicators like progress bars and achievement notifications. Its robust features include options to search, edit, or delete movie entries, all supported by an online database for secure data storage. Hollywood House simplifies and enriches the movie collection experience, making it easier and more enjoyable for cinephiles to organize and access their favorite films.
 
 ## 📱 User Interface
-<p align="center"><img src="https://github.com/VCNMB/vcnmb-opsc-2023-poe-rnk/assets/101563674/ac27a298-1438-4bd8-bd01-1349c4027e4d" alt="Image"></p>
+<p align="center"><img src="https://github.com/RobertoBooysen/Hollywood-House/assets/101563323/8981dcd4-4928-43c9-9309-833c162f07c8" alt="Image"></p>
 <p align="center"><img src="https://github.com/VCNMB/vcnmb-opsc-2023-poe-rnk/assets/101563674/e639349c-47d9-4b90-8d26-0b92cb1c229c" alt="Image"></p>
 <p align="center"><img src="https://github.com/VCNMB/vcnmb-opsc-2023-poe-rnk/assets/101563674/2229cd16-2e99-4e72-9a72-ce146804a32c" alt="Image"></p>
 
@@ -42,10 +42,7 @@ The "Sign Out" button on the home page will redirect the user back to the main p
 * Programming Language Kotlin
 
 ## ⬇️ Download Mobile Application 
-[Bird Haven Mobile Application](https://play.google.com/store/apps/details?id=com.rnk.opsc6311_task3&pcampaignid=web_share)
-
-## 🔗 GitHub Web Page Link
-[Bird Haven Web Page](https://vcnmb.github.io/vcnmb-opsc-2023-poe-rnk/)
+Hollywoord House Mobile Application](https://play.google.com/store/apps/details?id=com.rnk.opsc6311_task3&pcampaignid=web_share)
 
 ## 📧 Contact Us
 Feel free to contact any of the following developers for improvements:
